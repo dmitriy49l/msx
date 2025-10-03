@@ -12,6 +12,12 @@
       "data": {
         "action": "link:http://bylampa.online"
       }
-    },    
+    },
+    {
+      "label": "Speedtest",
+      "data": {
+        "action": "link:http://openspeedtest.com/Get-widget.php?Auto=3"
+      }
+    }
   ]
 }
