@@ -1,7 +1,7 @@
 {
   "name": "Мої Сервіси",
   "type": "list",
-  "headline": "Виберіть сервіс",
+  "headline": "Доброго дня, Вельмишановний пан Володимир !",
   "version": "1.0.0",
   "parameter": "content:http://dmitriy49l.github.io/msx/start.json",
   "action": "[settings:validate_links:0|home]",
