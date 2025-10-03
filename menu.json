@@ -1,0 +1,23 @@
+{
+  "headline": "Виберіть сервіс",
+  "menu": [
+    {
+      "label": "Lampa MX",
+      "data": {
+        "action": "content:http://lampa.mx"
+      }
+    },
+    {
+      "label": "ByLampa Online",
+      "data": {
+        "action": "content:http://bylampa.online"
+      }
+    },
+    {
+      "label": "GitHub Example",
+      "data": {
+        "action": "content:https://benzac-de.github.io/msx/data/content.json"
+      }
+    }
+  ]
+}
