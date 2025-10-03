@@ -1,5 +1,29 @@
 {
-  "name": "Сайти",
+  "name": "Мої Сервіси",
+  "type": "list",
+  "headline": "Виберіть сервіс",
   "version": "1.0.0",
-  "parameter": "menu:https://dmitriy49l.github.io/msx/data/menu.json"
+  "action": "[settings:validate_links:0|home]",
+  "template": {
+    "type": "separate",
+    "layout": "0,0,2,3",
+    "color": "msx-glass"
+  },
+  "items": [
+    {
+      "title": "Lampa",
+      "image": "http://lampa.mx/msx-logo.png",
+      "action": "link:http://lampa.mx"
+    },
+    {
+      "title": "Bylampa Online",
+      "image": "http://bylampa.online/msx-logo.png",
+      "action": "link:http://bylampa.online"
+    },
+    {
+      "title": "Speedtest",
+      "image": "http://msx.noname.h1n.ru/msx/img/test.png",
+      "action": "link:http://openspeedtest.com/Get-widget.php?Auto=3"
+    }
+  ]
 }
