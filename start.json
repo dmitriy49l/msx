@@ -1,12 +1,5 @@
 {
-  "pages": [
-    {
-      "title": "ByLampa",
-      "link": "http://bylampa.online/msx/start.json"
-    },
-    {
-      "title": "Lampa MX",
-      "link": "http://lampa.mx/msx/start.json"
-    }
-  ]
+  "name": "Сайти",
+  "version": "1.0.0",
+  "parameter": "menu:https://dmitriy49l.github.io/msx/data/menu.json"
 }
