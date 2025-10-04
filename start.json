@@ -12,13 +12,7 @@
   },
   "items": [
     {
-      "type": "space",
-      "layout": "0,0,12,6",
-      "offset": "-1.25,-1,2,1",
-      "color": "msx-glass",
-      "image": "https://dmitriy49l.github.io/msx/data/image.png",
-      "imageFiller": "cover",
-      "imageOverlay": 5
+      "background": "https://dmitriy49l.github.io/msx/data/image.png",
     },
     {
       "title": "Lampa",
