@@ -10,16 +10,15 @@
     "layout": "0,0,2,3",
     "color": "msx-glass"
   },
-  {
-  "type": "space",
-  "layout": "0,0,12,3",
-  "color": "msx-glass",
-  "image": "https://picsum.photos/seed/msx_665e1e1c_bg/1992/552",
-  "imageFiller": "cover",
-  "imageOverlay": 4
-   },
-
   "items": [
+    {
+      "type": "space",
+      "layout": "0,0,12,3",
+      "color": "msx-glass",
+      "image": "https://picsum.photos/seed/msx_665e1e1c_bg/1992/552",
+      "imageFiller": "cover",
+      "imageOverlay": 4
+    },
     {
       "title": "Lampa",
       "image": "http://lampa.mx/msx-logo.png",
