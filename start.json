@@ -14,8 +14,9 @@
     {
       "type": "space",
       "layout": "0,0,12,3",
+      "offset": "-1.25,-1,2,1",
       "color": "msx-glass",
-      "image": "https://picsum.photos/seed/msx_665e1e1c_bg/1992/552",
+      "image": "https://dmitriy49l.github.io/msx/data/image.png",
       "imageFiller": "cover",
       "imageOverlay": 4
     },
